@@ -1,2 +1,3 @@
 portainer/portainer-ce
 lobehub/lobe-chat
+linuxserver/qbittorrent
