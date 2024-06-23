@@ -5,3 +5,4 @@ mtphotos/mt-photos-ai
 mtphotos/mt-photos
 ypptec/nascab
 jxxghp/moviepilot
+adguard/adguardhome
