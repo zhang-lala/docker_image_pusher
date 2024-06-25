@@ -1,1 +1,10 @@
 linuxserver/unifi-controller
+lobehub/lobe-chat
+linuxserver/qbittorrent
+mtphotos/mt-photos-ai
+mtphotos/mt-photos
+mtphotos/mt-photos-deepface
+ypptec/nascab
+jxxghp/moviepilot
+adguard/adguardhome
+linuxserver/unifi-controller
