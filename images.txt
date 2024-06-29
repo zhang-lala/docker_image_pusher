@@ -8,4 +8,3 @@ ypptec/nascab
 jxxghp/moviepilot
 adguard/adguardhome
 linuxserver/unifi-controller
-louislam/uptime-kuma
